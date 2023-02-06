@@ -1,0 +1,19 @@
+Hi {FULL_NAME},
+<br/>
+<br/>
+Congratulation Your Registration Is Successful.
+<br/>
+<br/>
+Your Temporary Password is {TEMP_PASSWORD}.
+<br/>
+<br/>
+Please Don't Share This Temporary Password With Anyone.
+<br/>
+<br/>
+<a href="{URL}">Please Click Here To Unlock The Account.</a>
+<br/>
+<br/>
+Thanks,
+<br/>
+<br/>
+Admin Team.
